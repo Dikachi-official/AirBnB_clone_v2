@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""test for console"""
+"""test for console v1"""
 import unittest
 from unittest.mock import patch
 from io import StringIO
