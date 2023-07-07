@@ -6,7 +6,7 @@ env.hosts = ["3.236.172.35", "44.210.132.69"]
 
 
 def do_clean(number=0):
-    """Delete out-of-date archives.
+    """Delete out-of-date archives...
 
     Args:
         number (int): The number of archives to keep.
