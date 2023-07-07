@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""Compress web static package
+"""Compress web static package v2
 """
 from fabric.api import *
 from datetime import datetime
