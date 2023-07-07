@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""Compress before shipping
+"""Compress before shippingv2
 """
 from fabric.api import local
 from datetime import datetime
