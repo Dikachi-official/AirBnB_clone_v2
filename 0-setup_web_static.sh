@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# Setting up web servers for deployment
+# Setting up web servers for deployment v2
 
 apt-get update
 apt-get install -y nginx
